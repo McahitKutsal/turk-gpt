@@ -1,104 +1,878 @@
-Romeo: Tüm göklerin en güzel yıldızlarından ikisi,
-yalvarıyorlar onun gözlerine işleri olduğundan:
-biz dönünceye dek siz parıldayın diye.
-gözleri gökte olsaydı, yıldızlar da onun yüzünde;
-utandırdı yıldızları yanaklarının parlaklığı.
-gün ışığının kandili utandırdığı gibi tıpkı.
-öyle parlak bir ışık çağlayanı olurdu ki gözleri gökte
-gece bitti sanarak kuşlar cıvıldaşırdı.’
+BİRİNCİ SAHNE
 
-Juliet: Bana romeo’mu ver; sonra öldüğünde
-al da küçük yıldızlara böl onu;
-onlar göğün yüzünü öyle bir süsleyecektir ki,
-bütün dünya gönül verip geceye,
-tapmayacaktır artık o muhteşem güneşe…
+(Verona, Bir alan)
 
-Romeo: Asaletim sadece aşkının tapınağına girdiğimde olacak içimde. Bir gün yıkılırsa bedenin başka ülkelerin çamurlu evlerinde: Bil ki bütün denizleri ayaklarına dökeceğim.
+(Capulet'lerin uşakları Sampson ve Gregory kılıç ve kalkanla girerler.)
 
-Juliet: Eğer sevgin azalacaksa gittikçe çoğalan aşkımdan, Bırak avcılar çıkarsın kalbimi yerinden! Sök at ne varsa: çamura bulanmış sevdaları, bu dağların ceylanlarını, kana susamış kontları ve senden arta kalan şu cılız bedenimi! Yok et benim olmadığım bütün şatoları. Görebileceğin bir şey kalmasın benden kalan…
+SAMPSON
 
-Romeo: Senin dudaklarınla, dudaklarım günahtan arındı.
+Gregory, şunu bil ki, bu hakaretlerin altında kalamayız.
 
-Juliet: Öyleyse şimdi günah dudaklarımda kaldı.
+GREGORY
 
-Romeo: Öyleyse ver bana günahımı geri.?
-Savaşır gözlerimle gönlüm öldüresiye
-Senin güzelliğinin ganimeti yüzünden:
-Gözüm kovar gönlümü seni görmesin diye,
-Gönlüm ister gözüme pay vermemek yüzünden.
-Gönlüm bildirir senin orada yattığını
-Öyle bir hücredeki giremez billur gözler;
-Gözüm inkara kalkar gönlün anlattığını,
-Güzel yüzünün ona sığındığını söyler.
-Gönlü dinleyip karar vermek için toplanır
-Düşünceler kurulu:soruşturur hakçası
-Kurulun yargısıyla bir karara bağlanır
-Seven gözün payıyla duyan gönlün parçası..
+Kalamayız, kalırsak belimiz kınlır.
 
-Şiddetle başlayan hazlar şiddetle son bulurlar..  Ölümleri olur zaferleri.. Öpüşürken yanıp tututşan ateşle barut gibi..
-Yarayla alay eder, yaralanmamış olan.
-Dur, şu pencereden süzülen ışık da ne?
-Evet, orası doğu, Juliet de güneşi!
-Yüksel ey güzel güneş, öldür şu kıskanç ayı,
-Bak nasıl da sararıp soluvermiş Tanrıça kederden
-Sen ondan çok daha güzelsin diye.
-Kıskandığı için vazgeç ona bağlılıktan,
-Sayrılı ve toydur bakirelik giysisi.
-Soytarılar giyer bunları ancak
-Sen çıkar bu giysileri, at üzerinden.
-Kadınım benim, ah benim sevgilim bu!
-Ne olur ah, bilseydi sevgilim olduğunu!
-Konuşuyor, ama bir şey de demiyor;
-Ne çıkar anlatıyor ya gözleriyle
-Karşılık vereceğim ben de!
-Amma da yüzsüzüm, konuştuğu ben değilim ki.
-Tüm göklerin en güzel yıldızlarından ikisi,
-Yalvarıyorlar onun gözlerine işleri olduğundan:
-Biz dönünceye dek siz parıldayın, diye.
-Gözleri gökte olsaydı, yıldızlar da onun yüzünde;
-Utandırırdı yıldızları yanaklarının parlaklığı,
-Gün ışığının kandili utandırdığı gibi tıpkı.
-Öyle parlak bir ışık çağlayanı olurdu ki gözleri gökte,
-Gece bitti sanarak kuşlar cıvıldaşırdı.
-Bak, nasıl da dayamış yanağını eline!
-Ah, eline giydiği eldiven olaydım da
-Dokunaydım yanağına.
-JULIET: Aaah!
+SAMPSON
+
+Anladın mı, kafamız kızarsa çekeriz kılıçları.
+
+GREGORY
+
+Çekeriz elbet. Sağ kaldıkça sen boynunu celladın ilmiğinden çekmeye bak!
+
+SAMPSON
+
+Yoo, kızarsam şimşek gibi vururum.
+
+GREGORY
+
+Ama vuracak kadar da çabuk kızmazsın.
+
+SAMPSON
+
+Montague'lerin bir köpeği beni kızdırmak için yeter de artar bile.
+
+GREGORY
+
+Kızmak, yerinde duramamaktır; yiğit olan durup dayanır; demek ki, sen kızdın mı tabanları yağlayacaksın.
+
+SAMPSON
+
+O evin bir köpeği bile dayanmam için kızmama yeter. Montague'lardan bir erkek ya da bir kadın görmem yeter, duvara yakın yürürüm.
+
+GREGORY
+
+Korkaksın da ondan! Korkaklar duvara yakın gider!
+
+SAMPSON
+
+Haklısın. Kadınlar güçsüz yaratıklar olduklarından hep duvarı itilirler. Ama ben Montague'ların erkeklerini duvardan itip kızlarını dayarım oraya.
+
+GREGORY
+
+Nasıl yapacaksın bunu? Kavga iki efendiyle, iki tarafın uşakları arasında ...
+
+SAMPSON
+
+Hepsi aynı kapıya çıkar; bakmam gözlerinin yaşına; erkeklerle dövüştükten sonra kızların canına okur, uçururum başlarını.
+
+GREGORY
+
+Kızların başlarını da mı?
+
+SAMPSON
+
+Evet, kızların ya da kızlıklarının ... Artık nasıl anlarsan!
+
+GREGORY
+
+Nasıl duyarlarsa, öyle anlasınlar seni.
+
+SAMPSON
+
+Ben dayandıkça, duyarlar beni; herkes bilir ne yaman bir et parçası olduğumu.
+
+GREGORY
+
+İyi ki balık değilsin, olsaydın muhakkak çiroz olurdun. Hadi çıkar aletini bakalım. İşte Montague'lardan iki kişi geliyor!
+
+(İki uşak daha girer. Abraham ve Balthasar.)
+
+SAMPSON
+
+Çıkardım aletimi işte; sen başla, ben arkandayım.
+
+GREGOR
+
+Nasıl yani? Arkanı dönüp tüyecek misin yoksa?
+
+SAMPSON
+
+
+İKİNCİ SAHNE
+
+(Bir sokak.)
+
+(Capulet, Kont Paris, aynı zamanda Soytarı olan Uşak girerler.)
+
+CAPULET
+
+Montague de söz vermiş benim gibi,
+
+Cezalarımız aynıymış; bence güç değil zaten
+
+Barışı korumak biz yaşlılar için.
+
+PARİS
+
+İkinizin de şanlı bir geçmişi var,
+
+Yazık böyle kavgalı yaşamanız uzun yıllar.
+
+Neyse efendimiz. Önerime ne dersiniz?
+
+CAPULET
+
+Önce de söylediğim gibi size;
+
+Kızım yabancısı dünyanın henüz,
+
+Daha geçtiğini görmedi on dört baharın.
+
+Hele iki yaz daha gururla solup gitsin de
+
+Kızımız gelinlik çağa geldi diyelim biz de.
+
+PARİS
+
+Ondan daha gençleri mutlu anneler oldu.
+
+CAPULET
+
+Öyle erken evlenen ama tez bozulur.
+
+Ondan başka toprak yuttu tüm umutlarımı
+
+Dünyalığımın tek, mirasçısı odur.
+
+Ona kur yap, nazik Paris, gönlünü kazanmaya çalış;
+
+Dileğim, onun isteğinin bir parçasıdır ancak.
+
+Kabulederse kızım, onun seçme sınırları içindedir
+
+Benim onayım ve destekleyici oyum.
+
+Her zamanki şölenlerimden birini veriyorum bu gece
+
+Sevdiğim birçok dostu çağırdım evime
+
+Konuklarımdan biri de siz olun Paris,
+
+Başım üstünde yeriniz, şölenimi
+
+Daha da zenginleştirecek varlığınız
+
+Bu gece, yerde yürüyen, ama göğü aydınlatan
+
+Nice yıldızlar göreceksiniz fakirhanemde.
+
+Nasıl bir coşku duyarsa tutkulu gençler,
+
+Topallayan kışın ardınca gelen
+
+Renk renk giysilere bürünmüş Nisan'ı görünce,
+
+Öyle bir haz, duyacaksınız siz de
+
+Taze, dişi goncalar arasında bu gece.
+
+Hepsini dinleyin, görün hepsini
+
+Uygun olanı seçin kendinize;
+
+Böyle çevrenizde bir sürü güzel peri,
+
+Kızım, onlar arasında; kalabalıktan biri.
+
+Hadi gidelim.
+
+(Uşağa bir kağıt vererek,)
+
+Al oğlum,
+
+Güzel Verona'yı dolaş baştan başa
+
+Adı burada yazılı olanları bul da, söyle
+
+Evim ve konukseverliğim açık herkese.
+
+(Capulet ve Paris çıkarlar.)
+
+
+UŞAK
+Adları burada yazılı olanları bulacakmışım ha! Kunduracı mezurasıyla, terzi kundura kalıbıyla, balıkçı kalemi, ressam da ağları ile uğraşmalıymış meğer. Bense bu kağıtta adlar! yazılı olanları bulmak zorundayım, yazanın yazdığı adların ne olduğunu bilmiyorum ki! Bilginlere başvurmalı. Hah tam zamanında!
+
+(Benvolio ile Romeo girerler.)
+
+BENVOLlO
+Adam sen de, yeni bir ateş söndürür başkasının yaktığını,
+Yeni bir acıyla hafifler eski bir ağrı,
+Başın döndü mü öbür yana döndür başını,
+Başkasının güçsüzlüğüyle iyileşir umutsuz keder,
+Gözlerine yeni bir zehir bul ki,
+Yok etsin ötekinin zehrini.
+
+ROMEO
+Şifalı otun birebir gelir buna.
+
+BENVOLlO
+Anlamadım, neye?
+
+ROMEO
+Kırılacak incik kemiğine ...
+
+BENVOLlO
+Delirdin mi Romeo?
+
+ROMEO
+Deli değilim, ama daha beter bağlıyım bir deliden;
+Zindana kapatılmışım, aç susuz bırakılmışım,
+İşkence edilip kırbaçlanmışım.
+Hadi iyi akşamlar dostum!
+
+UŞAK
+Size de! Okumanız var mı efendim?
+
+ROMEO
+Evet, okurum alnımın kara yazısını.
+
+UŞAK
+Onu ezberlemişsinizdir herhalde. Acaba gördüğünüz bir şeyi okuyabilir misiniz?
+
+ROMEO
+Eğer harfleri ve dili bilirsem, evet.
+
+UŞAK
+Çok dürüstsünüz efendim, hoşça kalın!
+
+ROMEO
+Dur ahbap, okumam var.
+Sinyor Martino, eşi ve kızları;
+Kont Anselmo ve güzel kız kardeşleri;
+Vitrivio'nun dul eşi;
+Sinyor Placentino ve sevimli yeğenleri;
+Mercutio İle kardeşi Valentine;
+Amcam Capulet, eşi ve kızları;
+Güzel yeğenlerim Rosaline ile Livia;
+Sinyor Valentino ile kuzeni Tybalt;
+LuciaiIe şirin Helena.
+Güzel bir topluluk, nereye gelecek bunlar?
+
+UŞAK
+Yukarıya.
+
+ROMEO
+Yukarıya nereye?
+
+UŞAK
+Bizim eve, yemeğe.
+
+(Okur.)
+
+(Kağıdı geri verir.)
+
+ROMEO
+Kimin evine?
+
+UŞAK
+Efendimin.
+
+ROMEO
+Öyle ya, daha önce sormalıydım.
+
+UŞAK
+Siz sormadan ben söyleyeyim. Efendim, büyük zengin Capulet'tir; Montague'lerden değilseniz, siz de gelip bir kadeh şarap tokuşturun. Hoşça kalın!
+
+(Çıkar.)
+
+BENVOLlO
+Bu geleneksel şöleninde Capulet'lerin
+Birlikte olacak Verona'nın tapılan eşsiz güzelleriyle
+Senin çok sevdiğin RosaIine'nin;
+Git de bak bulanmamış gözlerle,
+Karşılaştır yüzünü sevgilinin sana göstereceklerimle:
+Kuğunun karga olduğunu o zaman göreceksin.
+
+ROMEO
+Gözlerimin sarsılmaz inancı,
+Kanarsa böyle bir yalana, ateş olsun gözyaşlarım
+Ve yaşlar içinde çoğu kez boğulup da ölemeyen bu gözler,
+Yakılsın günahkar gibi cehennem ateşinde.
+Sevgilimden giizel biri ha! Her şeyi gören güneş
+Onun benzerini görmedi dünya yaratılalı beri.
+
+BENVOLlO
+Hadi canım, güzel gördün onu yanında kimse olmadığından,
+Tek başına o yer aldı her iki gözünde senin;
+Hele onun aşkı bir başka güzelle
+Tartılsın bir kez o billur terazide;
+Öyle pırıl pırıl birini bu akşam göstereceğim sana,
+Hiç de güzel gelmeyecek o anda
+Şimdi en güzel görünen.
+
+ROMEO
+Seninle geleceğim ama
+Böyle bir şey, görmeye değil,
+Sevgilimin güzelliğiyle haz duymaya.
+
+(Çıkarlar.)
+
+
+ÜÇÜNCÜ SAHNE
+
+(Capulet'in evi.)
+
+(Lady Capulet ve Dadı girerler.)
+
+LADY CAPULET
+Dadı, kızım nerede? Buraya göndersene!
+
+DADI
+On iki yaşımın kızlığı üzerine yemin ederim ki
+Çağırdım onu! Hadi kuzucuğum! Hadi gelin böceğim!
+Tanrı korusun! Nerede bu kız? Juliet!
+
+JULIET
+Efendim? Ne var?
+
+DADI
+Anneniz çağırıyor.
+
+JULIET
+Buradayım efendim bir şey mi var?
+
+LADY CAPULET
+Seninle konuşacağım... Dadı, yalnız bırak bizi.
+Özel konuşmamız gerek. Yok, Dadı, gel.
+
+(Juliet girer.)
+
+İyisi mi sen de dinle. Kızımız artık büyüdü bildiğin gibi.
+
+DADI
+Ah, saati saatine bilirim ben onun büyüdüğünü.
+
+LADY CAPULET
+On dördüne basmadı henüz.
+
+DADI
+On dört dişim üzerine bahse girerim ki...
+Ama dört kaldı topu topu - basmadı on dördüne.
+
+LADY CAPULET
+Ne kadar var Ekmek Yortusu'na?
+
+DADI
+On beş yirmi gün kadar.
+
+LADY CAPULET
+Kaç gün olursa olsun, tam on dört olacak.
+Önümüzdeki yortu gecesi. Yaşıttı Susan'la.
+Tanrı huzur versin ruhuna.
+Aldı Susan'ımı Tanrı, layık değilim diye ona.
+Ne diyordum? Basacak on dördüne Yortu Gecesi.
+Evet, tam on dördüne. Hatırlarım bugün gibi;
+O büyük depremden on bir yıl geçti,
+O gün sütten kesmiştim onu, hiç unutur muyum!
+Pelin sürmüştüm memelerime, emmesin diye;
+Güvercinlik duvarı önünde, güneşe karşı oturmuştum;
+Beyle siz Mantua'daydınız o sıra.
+İyi bir belleğim vardır: Dediğim gibi,
+Mememin ucundan pelini tadınca suratını astı maskara;
+Belli ki acı buldu, memeye küsüverdi.
+Tam o sırada işte güvercinlik başladı sallanmaya,
+Durmanın sırası değil, dedim, kaçıp uzaklaştım oradan.
+On bir yıl geçti o günden bu yana.
+O zamanlar yardımsız duruyordu ayakta,
+Durmak şöyle dursun, koşup duruyordu oradan oraya;
+
+Hatta bir gün önce düşüp kaşını patlatmıştı da
+Kocam - Tanrı onunla olsun, hoş adamdı
+Onu yerden kaldırmıştı: "Demek yüzüstü düştün ha!
+Sırt üstü düşeceksin akıllandığın gün,
+Öyle değil mi Juliet?" Na yeminle size işte
+Güzel yumurcak ağlamayı kesip de: "Evet" demez mi!
+Şakanın gerçek olduğunu görecekmişim meğer,
+Unutmam bunu bin yıl yaşasam da!
+"Öyle değil mi Juliet?" dedi kocam,
+"Evet." dedi bu şirin maskara da!
+
+LADY CAPULET
+Yetişir bu kadar. Artık sus lütfen!
+
+DADI
+Olur hanımcığım, ama gülme geliyor.
+Ağlamayı kesip de "Evet" dediğini düşündükçe,
+İnanın, bir şiş vardı alnında.
+Yavru horozun şeyi kadar;
+Kötü düşmüş, acı acı da ağlamıştı:
+"Demek yüzüstü düştün ha?" demişti kocam,
+"Sırtüstü düşeceksin büyüdüğünde.
+Öyle değil mi Juliet?"
+Ağlamayı kesip "Evet," demişti o da.
+
+JULIET
+Kes artık, dadı; n'olur sus!
+
+DADI
+Tamam, bitti işte. Tanrı seni esirgesin,
+En güzeliydin emzirdiğim bebelerin;
+Bir de yaşasam evlendiğini görecek kadar,
+Kalmaz başkaca dileğim.
+
+LADY CAPULET
+Evlenmek, evet, "Evlilik" konusu
+Benim de görüşmeye geldiğim. Yavrum söyle bana
+Ne düşünüyorsun evlenme konusunda?
+
+JULIET
+Hiç düşünmediğim bir onurdur evlenmek.
+
+DADI
+Onur mu? Olmasaydım biricik dadın ben,
+Süt yerine, derdim, akıl emdin memeden.
+
+LADY CAPULET
+Geldi zamanı artık, evlenmeyi düşün;
+Verona'da, senden küçük saygıdeğer hanımlar
+Çoktan anne oldular.
+Bense, senin kadardım annen olduğum gün.
+Uzun sözün kısası: Yiğit Paris aşkını diler senin.
+
+DADI
+Böyle bir erkek kızım dünyaya bedel,
+Bebek gibi güzel bir adam.
+
+LADY CAPULET
+Verona baharı görmedi böyle bir çiçek.
+
+DADI
+Çok doğru söylersiniz hanımım, hem de ne çiçek!
+
+LADY CAPULET
+Ne dersin kızım? Onu sevebilecek misin?
+Göreceksin onu bu gece şölenimizde,
+Paris'in yüzünü bir kitap gibi okuyacaksın,
+Güzellik kalemiyle yazılan hazzı bulacaksın;
+Anlayacaksın büyülü bir uyumla tamamlandığını
+Yüzünde birleşen çizgilerin.
+Bu güzel kitapta bilinmedik yerleri
+Öğretecektir sana onun gözbebekleri.
+Bu değerli aşk kitabını, bu bağsız aşığı
+Güzelleştirmek için sarıp kaplamak gerek.
+Balık denizde yaşar; ne kıvançtır
+Dış güzelin iç güzeli saklaması.
+Altın öyküsü altın anahtarla kilitlenmiş bir kitap
+Herkesin gözünde nasıl bir hayranlık uyandırır!
+Onun sahip olduklarına sen ortak olacaksın,
+Onu elde etmekle sen azalmayacaksın.
+
+DADI
+Azalır mı? Çoğalacak! Erkekle çoğalır kadın.
+
+LADY CAPULET
+Söyle bana, Paris'in aşkına karşılık verecek misin?
+
+ROMEO
+Sevmek için bakarım, bakmak sevgiyi getirirse,
+Ama derinlere dalmam gözlerimle,
+Gitmem izninizden bir parça ileriye.
+
+UŞAK
+(Uşak girer.)
+Efendim, konuklar geldiler, sizi bekliyorlar. Küçük hanımı soruyorlar. Yardım etmedi diye kilerde Dadı'ya veriştiriyorlar; her yerde bir telaş. İşime dönmeliyim. Yalvarırım efendim, hemen gelin.
+
+LADY CAPULET
+Hemen geliyoruz.
+
+(Uşak çıkar.)
+
+Juliet, baban bekliyor aşağıda.
+
+DADI
+Hadi kızım, mutlu geceler ara mutlu günlerine.
+
+(Çıkarlar.)
+
+
+
+Tabii, işte metnin Türkçe çevirisi:
+
+ROMEO
+Nasıl, bağışlanmamız için söylev mi çekeceğiz?
+Yoksa özür dilemeden içeri mi gireceğiz?
+
+BENVOLIO
+İçeri girmemiz için
+Modası geçti böyle teranelerin.
+Ne eline boyalı bir Tatar yayı verilen
+Ve korkuluk kılığıyla bayanlan korkutan
+Maskeli Küpidon'a gerek var;
+Ne de süflör yardımıyla söylenen tiradlara.
+Dans için ne çalarlarsa çalsınlar
+Çekip gideriz bir iki danstan sonra.
+
+ROMEO
+Bir meşale verin bana;
+Tepinmeye hiç niyetim yok benim
+Işığı ben taşıyayım kederli olduğum için.
+
+MERCUTIO
+Olmaz, sevgili Romeo, sen de dans edeceksin.
+
+ROMEO
+Hayır, etmeyeceğim yeminle,
+Sizin dans için hafif ayakkabılarınız var;
+Benimse ruhum kurşun gibi ağır,
+Kımıldayamıyorum, mıhlıyım sanki yere.
+
+MERCUTIO
+Bir aşıksın sen; ödünç al Küpidon'un kanatlarını
+Ve, süzül, yükseklerden herkesin üstüne.
+
+ROMEO
+Öyle bir işledi ki, Küpidon'un oku bana
+Süzülemem onun hafif kanatlarıyla bile,
+Öyle bir bağlanmışım ki, yükselemem
+Biraz olsun sıkıcı kederimin ötesine,
+Batıyorum aşkın ağır yükü altında.
+
+MERCUTIO
+İçine batmak için aşkına yüklenmelisin,
+Öyle duyarlı bir şeye sen çok ağır gelirsin.
+
+ROMEO
+Aşk duyarlı bir şey mi ki?
+Öyle kaba, öyle hayrattır ki; acıtır diken gibi.
+
+MERCUTIO
+Aşk sana hoyrat davranırsa, sen de hoyrat davran ona.
+Acıtırsa diken gibi, dikeninle sokup
+Yeniver aşkı sen de.
+Yüzümü örtmek için bir maske verin bana!
+Maske üstüne maske! Beğenmesin ne çıkar
+Şu maskeli yüzümü meraklı bakışlar.
+İşte çatık kaşlı bir surat yerime utanacak.
+
+BENVOLIO
+Kapıyı çal da içeriye girelim. Girer girmez de
+Gücünü bacaklarına versin herkes.
+
+ROMEO
+Meşale verin bana! Varsın kaygısızlar, uçarılar
+Ökçeleriyle duygusuz hasırları gıdıklasınlar;
+Bense bir atasözüne uyacağım
+Mum tutup oların seyrine bakacağım;
+Şaka dönebilir uğursuz bir kavgaya
+Eğlenceyi bırakmalı tadında.
+
+MERCUTIO
+"Sus, sesini çıkarma!" polisin dediği gibi,
+Çıkarırız çamurdan kocamış bir atsan,
+Sen saygıdeğer arkadaşım, boğazına dek batmışsın aşka
+Hadi,hep birlikte mum yakalım gün ışığına!
+
+ROMEO
+Yok canım, ondan değil.
+
+MERCUTIO
+Demek istiyorum ki,
+Boş yere harcıyoruz ışıklarımızı
+Gündüz yanan kandiller gibi
+İyi niyetimiz yeter; aklımız.
+Beş kez önündedir beş duyumuzun çünkü.
+
+ROMEO
+Doğru, iyi niyetle gidiyoruz bu maskeli baloya,
+Akıllıca bir iş değil gitmemiz ama!
+
+MERCUTIO
+Sorabilir miyiz neden?
+
+ROMEO
+Bir düş gördüm dün gece.
+
+MERCUTIO
+Ben de gördüm.
+
+ROMEO
+Senin gördüğün neydi?
+
+MERCUTIO
+Düş görenlerin çoğu kez yalan söylediğini.
+
+ROMEO
+Uyurken hep gerçek olanlar görülür düşte.
+
+MERCUTIO
+Kraliçe Mab girmiş öyleyse düşüne.
+Ebesidir o perilerin,
+Bir belediye kurul üyesinin
+Parmağındaki akik taşından da
+Küçük bir görünüşe girip
+Zerreciklerin çektiği arabasıyla gelir.
+Uyuyanların burnu üzerinde gezinir;
+Uzun örümcek bacaklarından tekerlekleri,
+Körüğü çekirge kanadından;
+Minik örümcek ağından dizginleri;
+Koşumları ay ışığının nemli ışıltısından;
+Cırcır böceği kemiğinden kamçısının sapı
+Kamçının kendisi incecik zardan;
+Gri üniformalı bir sinektir arabacısı,
+Tembel bir kızın parmağından çıkan
+Tombul bir kurdun yarısından da küçük bir sinek.
+Arabası boş bir fındık kabuğu,
+Eskiden beri peri arabaları ustası
+Bir sincap ya da kocamış bir tahta kurdu
+Yapmıştır büyük bir özenle bunu.
+Böyle her gece dörtnala geçer aşıkların kafasından
+Onlar da görürler sevda düşleri;
+Derken saray adamlarının gezinir dizlerinde
+Diz kırıp eğilme düşü görür onlar da;
+Gezinince avukatların parmaklarında
+Görürler düşlerinde kaşındığını avuçlarının;
+Dudaklarında gezinince güzel bayanların
+Öpücüklerle dolar düşleri onların;
+Şekerleme kokusu varsa soluklarında eğer
+Çoğu kez öfkeli peri, dudaklarını uçuklarla bezer.
+Dörtnala burnundan geçti mi bir saraylının
+O anda dilekçe kokusu alır burnu adamın;
+Bazen bir öşür domuzunun kuyruğuyla gelir,
+Burnunu gıdıklar uyuyan bir papazın,
+Papaz da sanır yeni bir adak aldığını;
+Bir askerin ensesine sürer bazen de arabasını,
+Asker de düşünde boyunlarını keser düşmanların,
+Görür ya da pusular, palalar, açılmış gedikler
+Şerefe kaldırılmış beş kulaçlık kadehler,
+Sonra trampetler çalar kulağında,
+Birden uyanır asker korkuyla,
+Bir iki dua okur, yine dalar uykuya.
+İşte bu peri Mab'dır: Atların yelesini karıştırır geceleri
+Büyülü bağlarla onları düğümler ki
+Binbir felaket gelsin diye çözenin başına;
+Yine bu korkulu düşlerin perisi,
+Abanır üstlerine sırtüstü yatarken genç kızlar,
+Öğretir onlara ilk kez yük taşımayı,
+Doğru dürüst kadın olmaları sağlar.
+Yine bu peri...
+
+ROMEO
+Yeter, Mercutio, yeter!
+Bunlar hep boş sözler.
+
+MERCUTIO
+Doğru, söz ettiğim düşler,
+Çocuklarıdır avare beyinlerin
+Boş bir tasarımın ürünüdürler.
+Hava kadar ince ve saydam,
+Kah kuzeyin donmuş bağ
+
+
+(Capulet'in evi.)
+
+(Uşaklar peçetelerle girerler.)
+
+1. UŞAK
+Potpan nerede? Sofrayı kaldırmaya niçin yardım etmiyorsunuz? Tam adamını buldun. O tabağı kaldırın, tabağı silmek için birisi mi gelir!
+
+2. UŞAK
+Terbiye ve nezaket iki kişinin eline kalırsa, üstelik bu eller bir de kirliyse, ne kötü bir şey bu.
+
+1. UŞAK
+İskemleleri kaldırın, büfeyi kenara çekin, tabaklara dikkat edin. Delikanlı bana bademli çörekten bir parça ayırıver; bana iyilik etmek istersen, kapıcıya Susan Grindston ve Nell'i içeri bırakmasını söyle. Anthony! potpan!..
+
+2. UŞAK
+Buradayız ya.
+
+1. UŞAK
+Büyük salondan sizi arıyorlar, çağırıyor, soruyor, bağırıp duruyorlar.
+
+3. UŞAK
+Aynı anda hem burada hem orada olamayız ki! Hadi çocuklar çabuk olun! Dünya varmış ya da yokmuş, ne umurumuz.
+
+(Maskeliler girer.)
+
+(Uşaklarıyla birlikte Capulet, karısı, Juliet, Tybalt ve bütün konuklar girerler.)
+
+CAPULET
+Buyrun saygıdeğer beyler! Ayakları nasırdan rahatsız olmayan hanımlar, sizlerle dans edecekler. Söyleyiniz bayanlar, hanginiz dans teklifini reddedebilir? Kim nazlanırsa, nasır vardır derim size, bastım mı şimdi bam telinize. Hadi buyrun efendiler! Bir zamanlar maske taktığım oldu benim de böyle, masallar fısıldardım güzel kadınların kulağına, hoşa gidecek cinsten sözler, yazık geçti gitti, geçti o günler. Hadi buyrun bakalım dansa! Başlasın çalgıcılar! Yer açın, yer açın, dans edin hadi kızlar!
+
+(Müzik ve dans başlar.)
+
+Tembel herifler ışık getirin daha, çekin masaları kenarlara! Sıcak bastı, ateşi söndürün. Dostum bu beklenmedik eğlence güzel gitti. Yok kuzenim oturun, dans etmek bizden geçti. Ne kadar zaman geçti, son maske, taktığımızdan beri?
+
+2. CAPULET
+Otuz yıl olmuştur inan.
+
+CAPULET
+Ne diyorsun, olmadı o kadar, olmadı, yirmi beş yıl olacak bu yortuda Lucentio'nun düğünü; en son orada maske takmıştık.
+
+2. CAPULET
+Daha fazla, daha fazla! Daha büyüktür oğlu beyim,
+Şimdi otuzunda var.
+
+CAPULET
+Yok canım, daha neler!
+Rüştüne ermemişti iki yıl öncesine kadar.
+
+ROMEO
+(Uşağa) Şu güzel bayan da kim?
+Elini süsleyen şuradaki beyzadenin?
+
+UŞAK
+Bilmiyorum efendim.
+
+ROMEO
+Parıldamayı öğretiyor bütün meşalelere
+Bir Habeşin kulağındaki pırlanta gibi,
+Asılmış gecenin yanağına sanki;
+El sürülmeyecek kadar güzel,
+Dünyaya fazla gelen değerli bir taş bu,
+Akranlarından çok değişik ve başka,
+Ak bir güvercin kargalar arasında.
+Durduğu yeri kaçırmayayım dans bitince,
+Şu kaba elim kutsansın onunkine değince.
+Gönlüm hiç sevdi mi bugüne dek?
+Sevdiyse, yalanlayın gözlerim. Görmedim çünkü
+Bu geceye dek gerçek güzelliği.
+
+TYBALT
+Montague'lerden biri sesine bakılırsa,
+Kılıcımı getir bana, çocuk!
+Bu herif geçirip bir maske suratına
+Hangi cüretle gelmiş böyle alay etmeye eğlencemizle!
+Soymun adı üzerine and içerim ki
+Günah olmaz gebertmek bu herifi!
+
+CAPULET
+Ne oldu kuzenim, ne bu hiddet böyle?
+
+TYBALT
+Bak amca, düşmanımız Montague'lerden biri,
+Nispet vermek için gelmiş serseri,
+Küçümsemeye bu geceki eğlencimizi.
+
+CAPULET
+Romeo değil mi o?
+
+TYBALT
+O ya, alçak Romeo!
+
+CAPULET
+Sakin ol kuzenim, kendi haline bırak onu,
+Ağırbaşla bir efendi gibi davranıyor doğrusu;
+Hem övünüyor tüm Verona kendisiyle
+Erdemli, saygılı, yiğit bir genç diye.
+Verseler bile bu kentin tüm servetini
+İstemem evimizde küçük düşürülmesini.
+Onun için sabırlı ol, görmezlikten gel,
+Ben böyle istiyorum çünkü her şeyden evvel.
+Sevimli ol, saygın varsa biraz bana,
+Bırak şu asık suratı bir yana
+Hiç yakışmıyor toplantımıza.
+
+TYBALT
+
+(Koro girer.)
+
+KORO
+Ölüm döşeğindedir şimdi eski sevda,
+Ve mirasçısı olmayı bekler yeni sevgi;
+Uğrunda Ölmek bile istenilen o güzel,
+Güzel değildir artık Juliet'in yanında.
+Romeo yeniden sever, bu kez sevilir de,
+Büyülenmiştir çekici bakışlardan eskisi gibi;
+Oysa Juliet, yakınır görünmek ister düşman diye
+Aşkın tatlı yemini çalan o korkunç oltalardan;
+Ve Romeo sunamaz sevgisini, aşk yeminlerini.
+Bilinen aşk diliyle düşman sayıldığından.
+Kız da gönlünü kaptırmıştır ya, imkanları daha az,
+Bu ilk sevgilisiyle bir yerde buluşamaz.
+Ama sevgi güç verir, zamansa imkan
+Büyük engellerde bulur, büyük hazzı insan.
+
+(Çıkar.)
+
+Birinci Sahne
+
+(Capulet'lerin bahçesi yanında bir yol.)
+
+(Romeo girer.)
+
+ROMEO
+Nasıl gidebilirim yüreğim buradayken?
+Geri dön, toprak gövde, dön de bul yüreğini.
+
+(Duvara tırmanır, bahçeye atlar. Benvolio ve Mercutio girerler.)
+
+BENVOLIO
+Romeo! Kuzenim! Hey Romeo!
+
+MERCUTIO
+İnan ki yatmaya gitmiştir, akıllıdır o.
+
+BENVOLIO
+Bu yana doğru geldi, atladı bahçe duvarından,
+Sen de seslensene Mercutio.
+
+MERCUTIO
+Hayır, ben onun ruhunu çağırayım.
+Romeo! Uçan gönül! Çılgın! Tutkun! Aşık!
+Bir "ah" biçimine gir de öyle çık karşımıza;
+Yeter ki bir kafiye düşür bana!
+''Heyhat!'' diye bağır, "yavrum"la "kumrum"u eşle!
+Sırdaşım Venüs için hoş bir söz söyle!
+Hani bir şiir vardır, genç okçu Küpidon'un
+Miyop oğlu ve mirasçısı cuk oturttuğu için okunu hedefine
+Kral Copheteau sevdalanır bir dilenci kızına,
+Gülünç bir ad tak işte ona.
+İşitmiyor, kımıldamıyor, gelmiyor şuna bak!
+Bir de şu ölen maymunun ruhunu kaldırsak!
+Ey ruh, Rosaline'in parlak gözleri için gel,
+O yuvarlak alnı ve kızıl dudakları,
+Biçimli ayakları, düzgün bacakları, oynak kalçaları,
+Ve kalçalarına bitişik yerleri için gel;
+Gel, ey ruh, olduğun gibi, görün bizlere.
+
+BENVOLIO
+Söylediklerini duyarsa, çok kızar sana.
+
+MERCUTIO
+Bunlara kızmaz o. Onu kızdırır ancak
+Sevgilisinin minik odasında garip bir ruh kaldırmak;
+Kız onu yatıştırıp büyüleyinceye kadar
+Ayakta bırakılırsa, işte o zaman kızar.
+Ee buna da kızılır hani!
+Oysa benim ruh çağırmam hem dürüst, hem akıllıca
+Uyandırıyorum onu sevgilisi adına.
+
+BENVOLIO
+Gel, o şu ağaçlar altına saklanmıştır
+Yoldaşlık etmek için huylu geceye,
+Kör olduğundan aşkı, en çok karanlığa uyar.
+
+MERCUTIO
+Aşkı körse eğer, bulamaz hedefini,
+Bir şeftali ağacının altına oturmuştur şimdi;
+O çeşitten bir meyve olmasını diliyordur sevgilisinin,
+Benzetirler ya hani hizmetçi kızlar,
+Gülüşüp konuşarak şeftaliyi.
+Ah Romeo, sevgilin şöyle bir açsada günebakan gibi,
+Yeseydin sen de yemişini.
+Romeo, iyi geceler! Yatağıma gidiyorum ben,
+Bu kadar soğuk bir yer döşeğinde uyuyamam.
+Gidiyor muyuz, hadi?
+
+BENVOLIO
+Gidelim ya, aramak boşuna bulmak istemeyeni.
+
+(Çıkarlar.)
+
 ROMEO:
-Konuşuyor.
-Ey parlak melek, konuş yine!
-Sen göz kamaştıran bir parlaklık veriyorsun geceye;
-Cennetin kanatlı ulağısın başımın üstünde,
-Tıpkı ölümlülerin hayretle açılan gözlerine göründüğün gibi.
-Tembel bulutlara binip uçarken o havanın kucağında,
-Onu seyreden insanlar gibi hayranlıkla,
-Öylece bakıyorum ben sana.
-
-JULIET:
-Ah, Romeo, Romeo!
-Neden Romeo’sun sen?
-İnkar et babanı, adını yadsı!
-Yapamazsan, yemin et sevdiğine,
-Vazgeçeyim Capulet olmaktan ben.
-ROMEO:
-(Kendi kendine) Daha dinleyeyim mi, yoksa açılayım mı ona?
-JULIET:
-Benim düşmanım olan adındır yalnızca
-Sen sensin, Montague olmasan da.
-Hem Montague nedir ki?
-Ne eli bir erkeğin,
-Ne ayağı ne kolu, ne yüzü ne de başka bir parçası.
-N’olur başka bir ad bul kendine.
+Hem Montague nedir ki? Ne eli bir erkeğin,
+Ne ayağı, ne kolu, ne yüzü ne de başka bir parçası.
+N'olur başka bir ad bul kendine.
 Adın ne değeri var? Şu gülün adı değişse bile
 Kokmaz mı aynı güzellikte?
-Romeo’nun da adı Romeo olmasaydı,
-Kusursuzluğundan hiç bir şey kaybolmazdı.
+Romeo'nun da adı Romeo olmasaydı,
+Kusursuzluğundan, hiçbir şey kaybolmazdı.
 Romeo, bırak, at bu adı! Senin parçan olmayan
 Bu ada karşılık al bütün varlığımı.
 
 ROMEO:
 Alıyorum öyleyse sözünü dinleyerek.
-“Sevgilim” de ki, vaftiz olayım yeniden;
+"Sevgilim" de ki, vaftiz olayım yeniden;
 Romeo değilim bundan böyle ben.
 
 JULIET:
@@ -113,17 +887,17 @@ Sana düşmandır diye.
 Ben yazmış olsaydım, şimdi yırtar atardım onu.
 
 JULIET:
-Daha yüz söz bile içmedi ağzından kulaklarım,
+Daha yüz söz bile içmedi ağzından kulaklarıma,
 Ama bu sesi tanıyorum:
-Sen Romeo değil misin, Montague’lerden hem de.
+Sen Romeo değil misin, Montague'lerden hem de.
 
 ROMEO:
-Ne oyum, ne de öbürü güzel ermiş,
+Ne oyun, ne de öbürü güzel ermiş,
 Hoşlanmıyorsan eğer.
 
 JULIET:
 Nasıl geldin buraya söyle, hem niye?
-Bahçenin duvarları yüksek, zor aşılması,
+Bahçenin, duvarları yüksek, zor aşılması,
 Kim olduğunu düşün bir de,
 Mezar olur sana bu yer, bizden görürlerse.
 
@@ -151,91 +925,23 @@ Geç ölmektense senin sevginden yoksun
 Yaşamıma son versin kinleri daha iyi.
 
 JULIET:
-Kim yardım etti sana, burayı bulman için?
+ROMEO
+Ah, sana doyamıyorum mı bırakacaksın beni böyle?
 
-ROMEO:
-Aşk yardım etti, aramamı fısıldayarak;
-O bana akıl verdi, ona göz oldum ben de.
-Denizci değilim, ama uzak denizlerde yıkanan
-Uçsuz bucaksız kıyılar kadar uzak olsan da sen
-Sana ulaşmak için açılırdım denizlere.
+JULIET
+Nasıl bir doyum bekliyorsun ki bu gece?
 
-JULIET:
-Biliyorum, gecenin maskesi var yüzümde,
-Olmasaydı eğer, duyduğun için demin söylediklerimi
-Nasıl kızardığını görürdün yanaklarımın.
-Çok isterdim ah bir güzel uyup göreneklere
-Demin söylediklerimin tümünü inkar etmeyi!
-Ama uğurlar olsun görgü kurallarına.
-Seviyor musun beni? “Evet” diyeceksin, biliyorum,
-Sözüne güveneceğim ben de; ama yemin edeyim deme,
-Belki de tutamazsın; Zeus alay edermiş, derler
-Sözünü tutamayan aşıklarla.
-Romeo, beni seviyorsan, söyle bana açıkça.
-Kolayca elde edilmiş sanıyorsan beni eğer,
-Çatayım kaşlarımı, naz yapıp “hayır” diyeyim sana,
-Ta ki sen kapanasın ayaklarıma.
-Yoksa dünyada yapmam öyle bir şey.
-Doğrusunu istersen güzel Montgue,
-Çılgınca seviyorum seni; belki de bu yüzden
-Hoppaca buluyorsundur benim hareketlerimi;
-Ama inan sevgilim, daha bağlı olacağım sana
-Daha kurnaz olup da çekingen duranlardan.
-İtiraf edeyim ki, daha çekingen davranmalıydım,
-Ama farkına varmadan ben, seni sevdiğimi,
-Ağzımdan işitmişsin. N’olur bağışla beni,
-Hafifliğe yorma sakın
-Karanlık gecenin açığa vurduğu çaresizliğimi.
+ROMEO
+Aşkının katkısız yeminini benimkine karşılık.
 
-ROMEO:
-Sevgilim, şu meyve ağaçlarının tepelerini gümüşleyen
-Kutsal ay üzerine yemin ederim ki…
-
-JULIET:
-Yemin etme kararsız ay üstüne sakın;
-Yörüngesinde her gece yön değiştiren ay gibi,
-Değişken olur sonra senin de aşkın.
-
-ROMEO:
-Ne üstüne yemin edeyim?
-
-JULIET:
-Hiç yemin etme; ama ille de edeceksen,
-O tanrı bilip tapındığım
-Sevimli varlığın üstüne et yeminini.
-
-ROMEO:
-Eğer yüreğimdeki sevgi…
-
-JULIET:
-Dur, yemin etme yine.
-Senin varlığın bana sevinç veriyorsa da,
-Sevinç duyamıyorum bu geceki anlaşmadan;
-Pek acele, birden oldu, düşünüp taşınmadan;
-Daha “çaktı” diyemeden çakıp ta kaybolan
-Yıldırıma benziyor. Tatlım, iyi geceler!
-Bu sevgi tomurcuğu, öbür görüşmemizde,
-Yazın olgunlaştıran soluğuyla dönüşebilir güzel bir çiçeğe.
-İyi geceler! İyi geceler! Yüreğimdeki dinginlik ve huzur
-Dolsun senin gönlüne de!
-
-ROMEO:
-Ah, sana doymadan mı bırakacaksın beni böyle?
-
-JULIET:
-Nasıl bir doygunluk bekliyorsun ki bu gece?
-
-ROMEO:
-Aşkının katışıksız yeminini benimkine karşılık.
-
-JULIET:
+JULIET
 Onu sana verdim bile, sen daha istemeden,
 Olsa da keşke bir kez daha versem.
 
-ROMEO:
+ROMEO
 Geri mi alacaksın yine? Peki, neden sevgilim?
 
-JULIET:
+JULIET
 İçtenlikle geri vermek için sana.
 Elimde olan bir şeyi istiyorum hem,
 Cömertliğim uçsuz bucaksız denizler gibi,
@@ -243,15 +949,19 @@ Denizler gibi derin sana olan sevgim.
 Sana ne kadar verirsem, o kadar çoğalıyor bende kalan,
 Sonsuz çünkü ikisi de.
 
-Seslendiler içerden, hoşçakal, canım sevgilim!
+DADI
+(İçerden seslenir.)
+Seslendiler içerden, hoşça kal, canım sevgilim!
+
+JULIET
 Geliyorum dadıcığım! Unutma beni, tatlı Montague!
 Biraz bekle, şimdi gelirim.
 
-ROMEO:
+ROMEO
 Ey kutsanmış mutlu gece! Korkuyorum gecedir diye,
-Bütün bu inanılmayacak tatlı şeylerin bir düş olmasından
+Bütün bu inanılmayacak tatlı şeylerin bir düş olmasından.
 
-JULIET:
+JULIET
 İki kelimecik daha, sevgili Romeo,
 Sonra da gerçekten iyi geceler sana!
 Saygıdeğerse aşkının eğilimi,
@@ -260,269 +970,215 @@ Nerede, saat kaçta yapmak istiyorsan töreni;
 O zaman tüm varlığımı sana adar,
 Ardın sıra gelirim ta ölünceye kadar.
 
-Ama kötüyse niyetin sana yalvarırım…
+DADI
+(İçerden.)
+Küçük hanım!
 
+JULIET
+Hemen geliyorum---
+Ama kötüyse niyetin sana yalvarırım ...
+
+DADI
+(İçerden.)
+Küçük hanım!
+
+JULIET
+Şimdi, Dadı, şimdi!
 Vazgeç bundan, başbaşa bırak beni kederimle.
 Yarın birini yollarım.
 
-ROMEO:
+ROMEO
 Ancak seninle yaşar ruhum.
 
-JULIET:
+JULIET
 Binlerce kez iyi geceler sana!
 
-ROMEO:
+ROMEO
 Binlerce kez beter olsun gece, senin ışığın yoksa.
 Öğrenciler nasıl ayrılırlarsa ders kitaplarından
 Öyle koşar seven sevdiğine giderken;
 Okula nasıl canı sıkkın giderse öğrenciler,
-Öyle ayrılır seven sevdiğinden
+Öyle ayrılır seven sevdiğinden.
 
-JULIET:
-Hişt, Romeo, hişt. Doğancı sesi gerek
-Ayartmak için bu erkek şahini!
-Kırık olur tutsaklığın sesi, gür sesle konuşamaz;
-İnletirdim yoksa Yankı’nın uyuduğu mağarayı.
-Sesi benimkinden de çok kısılıncaya dek
-Durmadan söyletirdim onun rüzgar sesine Romeo’nun adını.
+JULIET
 Romeo!
 
-ROMEO:
-Ruhum çağırıyor beni adımla!
-Geceleri ne de gümüşsü bir ses verir sevenlerin dilleri,
-En yumuşak müziktir dinleyen kulaklara.
-
-JULIET:
-Romeo!
-
-ROMEO:
+ROMEO
 Söyle sevgilim.
 
-JULIET:
+JULIET
 Yarın kaçta göndereyim?
 
-ROMEO:
+ROMEO
 Dokuzda.
 
-JULIET:
-Mutlaka gönderirim; daha yirmi yıl var sanki
-Unuttum neden çağırdığımı seni.
+JULIET
+Mutlak gönderirim; daha yirmi yıl var sanki
+Unuttum neden geri çağırdığımı seni.
 
-ROMEO:
+ROMEO
 Anımsayıncaya dek beklerim burada.
 
-JULIET:
+JULIET
 Büsbütün unuturum sen beklersen orada,
 Anımsadığım için seninle olmanın hazzını.
 
-ROMEO:
+ROMEO
 Ben de beklerim sen unutasın diye,
 Unuttuğumdan bu evden başkasını.
 
-JULIET:
+JULIET
 Nerdeyse sabah olacak: Artık gitsen;
 Yine de şımarık bir çocuğun kuşu gibi uzağa gitme;
-Yaramazın, elinden bir parça salıverip de
+Yaramazın elinden bir parça salıverip de
 Sonra da verdiği özgürlüğü kıskanıp
 İpek bir iplikle geri çektiği
-Bukağıya vurulmuş tutsak gibi.
+Bukağıya vurulmuş bir tutsak gibi.
 
-ROMEO:
+ROMEO
 Keşke kuşun olsaydım!
 
-JULIET:
+JULIET
 Ne iyi olurdu, tatlım!
-Ama çok seveyim derken öldürürdüm seni.
-İyi geceler! Romeo’m elveda!
-Sabaha dek iyi geceler sana!
+Ama çok seveyim
 
-ROMEO:
-Uyku barınsın gözlerinde, barış da gönlünde,
-Uyku da ben olsam, barış da, ne tatlı bir dinlenme olur!
-Şu bizim kutsal pederin varayım hücresine
-Anlatıp bu mutlu olayı, yardımını dileyeyim.
-
-romeo-juliet
-
-yağmuru seviyorum diyorsun,
-yağmur yağınca şemsiyeni açıyorsun…
-güneşi seviyorum diyorsun,
-güneş açınca gölgeye kaçıyorsun…
-rüzgarı seviyorum diyorsun,
-rüzgar çıkınca pencereni kapatıyorsun…
-işte, bunun için korkuyorum;
-beni de sevdiğini söylüyorsun…
-
-Vazgeçtim bu dünyadan, tek ölüm paklar beni,
-Değmez, bu yangın yeri avuç açmağa değmez,
-Değil mi ki çiğnenmiş inancın en seçkini,
-Değil mi ki yoksullar mutluluktan habersiz,
-Değil mi ki ayaklar altında insan onuru,
-O kızoğlan kız erdem dağlara kaldırılmış,
-Ezilmiş, hor görülmüş, el emeği, göz nuru,
-Ötekiler geçmiş başa, derken mertlik bozulmuş,
-Değil mi ki korkudan dili bağlı sanatın,
-Değil mi ki çılgınlık sahip çıkmış düzene,
-Doğruya doğru derken eğriye çıkmış adın,
-Değil mi kötüler kadı olmuş Yemene:
-Vazgeçtim bu dünyadan, dünyamdan geçtim ama,
-Seni yalnız komak var, o koyuyor adama.
-
-Ne tunç ne taş ne toprak ne de sonsuz denizler
-Acıklı fâniliğe karşı koyamazken,
-Nasıl bu kör öfkeyle güzellik cenge girer
-Çabasında en fazla bir çiçek gücü varken?
-Ah, nasıl göğüs gersin yazın tatlı rüzgârı
-Gaddar günler dört yandan üstüne yürüdükçe,
-Bozguna uğrattıkça yenilmez kayaları,
-Çelik kapılar bile zamanla çürüdükçe?
-Ne korkunç bir düşünce!
-Ah, nerde saklı dursun
-Çağların mücevherleri
-Çağların sandığından?
-Hangi zorlu el var ki bu koşuyu durdursun?
-Güzellik yağmasını kim esirgesin ondan?
-Yok hiçbiri. Meğer ki mucize sürsün de
-Sevdiğim ışıldasın kara yazı üstünde.
-
-III
-Kölen olmuşum senin, elden başka ne gelir,
-El pençe divanım ben arzuna, buyruğuna;
-Geçirdiğim saatler baştan başa bir hiçtir,
-Sen istemezsen eğer hizmetlerim boşuna.
-Haddim değildir küsmek sonu gelmez anlara.
-Senin için, sultanım, saatleri gözlerken.
-Ayrılık acısını düşünmem kara kara
-Sen bir kere kölene uğurlar olsun dersen.
-Kıskanç kuşkularımda haddim değildir sormak
-İçli dışlı olduğun kimdir, nedir işlerin;
-Nasibin bir put gibi hiç düşünmeden durmak
-Saçtığın mutluluğa yanarak derin derin.
-Öyle körkütük sadık bir köledir ki sevda,
-Seni kötü göremez bir kötülük yapsan da.
-Bakın ama, kızıl bir örtüye bürünmüş sabah, doğudaki
-yüksek tepenin çiğleri üstünde yürür.)
-
-yeni bir ateş söndürür başkasının yaktığını
-yeni bir acıyla hafifler eski bir ağrı
-başın döndü mü öbür yana döndür başını
-başkasının güçsüzlüğüyle iyileşir umutsuz keder
-gözlerine yeni bir zehir bul ki
-yok etsin ötekinin zehrini…
-
-William Shakespeare
-
-Tıpkı Shakespeare?in Romeo ve Juliet?inde olduğu gibi. ?Romeo: Senin dudaklarınla, dudaklarım günahtan arındı. Juliet: Öyleyse şimdi günah dudaklarımda kaldı. Romeo: Öyleyse ver bana günahımı geri.?
-
-Savaşır gözlerimle gönlüm öldüresiye
-Senin güzelliğinin ganimeti yüzünden:
-Gözüm kovar gönlümü seni görmesin diye,
-Gönlüm ister gözüme pay vermemek yüzünden.
-Gönlüm bildirir senin orada yattığını
-Öyle bir hücredeki giremez billur gözler;
-Gözüm inkara kalkar gönlün anlattığını,
-Güzel yüzünün ona sığındığını söyler.
-Gönlü dinleyip karar vermek için toplanır
-Düşünceler kurulu:soruşturur hakçası
-Kurulun yargısıyla bir karara bağlanır
-Seven gözün payıyla duyan gönlün parçası:
-Senin dış güzelliğin olur gözümün payı,
-Gönlüm kazanır aşkın gönlündeki dünyayı.
-
-Vurgunum gözlerine, o gözler acır bana:
-Bilirler, yüreğin hor görüp işkence eder;
-Seven yaslılar gibi kara çekmiş sırtına,
-Kıvranışımı özlü bir şefkatle süzerler.
-Sabahleyin göklerde ışıyan güneş bile
-Yaraşamaz Doğunun soluk yanaklarına,
-Akşama yol gösteren gür yıldız, görkemiyle
-Böyle ışık saçmaz loş Batının yarısına:
-Yaşlı gözlerin daha çok yaraşır yüzüne.
-Bana da bir pay ayır yüreğindeki yastan:
-Seni yas daha güzel gösterir ele güne;
-İşte acıma duygun sana biçilmiş kaftan.
-“Güzel ancak karadır,” diye yemin ederim,
-Senin renginden yoksun olan çirkindir derim.
-
-Kölen olmuşum senin, elden başka ne gelir,
-Gece gündüz el pençe divanım buyruğuna;
-Geçirdiğim saatler baştan başa bir hiçtir
-Sen buyurmuş değilsen çabalarım boşuna.
-Senin için, sultanım, saatleri gözlerken
-Ben kimim ki küseyim sonu gelmez günlere,
-Kara kara düşünmem, acı çekmem özlerken
-Uğurlar olsun dersen kölene sen bir kere
-Ben kimim ki kıskanıp kuşkulanıp sorayım
-Kimle içli dışlısın, nedir yaptığın işler;
-Derdim günüm put gibi düşünmeden durayım,
-Mutlu kıldıklarını bilmek içime işler.
-Öyle körkütük sadık bir köledir ki sevda,
-Seni kötü göremez bin kötülük yapsan da.
-
-Tanrı beni ilkbaşta sana kul yaptı, sonra
-Keyfine el koymayı kurmamı yasak etti.
-Ya da özlem duymamı hesaplı zamanlara;
-Kölenim ya, boş vaktin olsun diye bekletti.
-Ah, bırak katlanayım, el pençe divan: değer,
-Senin özgürlüğünün tutuklu yokluğuna;
-Her mihnete sabreder, her azara baş eğer,
-İncittin diye hiç suç yüklemez bile sana.
-Sen nerde olursan ol, yetkin, güçlü, özgürsün;
-Hâkimsin dilediğin gibi kendi vaktine:
-Canın neyi isterse varsın o keyif sürsün,
-Kendine suç işlersen kendin bağışla yine.
-Beklemek cehennemdir, ama beklerim seni,
-İyi kötü demeden, suçlamadan keyfini
-
-Sahiden uyuyor mu?
-Ahh! Kim vurmuş kumrumu?
-Ben geldim, civanım, yiğidim, kalk!
-Kalksana, konuşsana!
-Görmüyor musun? Yoksa…
-Örttü mü, gözlerini kara toprak?
-Bu zambak dudaklara,
-Şu zeren yanaklara,
-Acımadın mı hiç kahpe felek?
-Aşıklar, aşk timsali,
-Gözü pırasa yeşili
-Piremuz bırakıp gitti beni!
-Hadi gel, tezcanlı ecel,
-Gel bana, geline gel,
-Batır mum sarısı ellerini,
-Batır benim de kanıma!
-Madem kıydın canına,
-kopardın onun bamtellerini.
-Konuşma artık, ey dil,
-Sadık kılıç, naz etme, gel,
-Odlara yanmış bağrımı dağla!
-Bıçaklar kendini.
-Geldim yolun sonuna,
-Uğurlar olsun bana!
-A dostlar, o dostlar, kalsın siz de sağlıcakla!
-
-JULİET
-ah!romeo,romeo neden romeo sun sen
-inkar et babanı adını yaadsı
-yapamazsan yemin et sevdiğine
-vazgeçeyim capulet olmaktan ben
+FRIAR LAWRENCE
+Gün doğusu, doğu bulutlarını ışıkla renklendirerek,
+Kızgın geceye gülümser sabahın mavi gözlüsü;
+Alacakaranlık sarhoş gibi sendeleyerek,
+Doğan günün yolundan kaçar
+Ve Titan'ın ateş saçan tekerleklerinden.
+Güneşin yakıcı bakışı, gündüze sevinç saçar,
+Gecenin çiylerini kurutmadan,
+Bu sepeti doldurmalıyım zehirli otlar ve şifalı çiçeklerle.
+Doğanın anası da, topraktır,
+Doğduğu yerdir doğanın mezarı;
+Doğurduğu bambaşka çocukları emzirir,
+Her biri farklıdır,
+Hepsi birçok yararlı özelliğe sahiptir,
+Yararsızı yoktur, ama herbiri ötekinden farklıdır.
+Otların, bitkilerin ve bazı taşların özlerindeki güç,
+İnanılmaz büyüktür.
+Yeryüzündeki en zararlı şey bile,
+Bu yeryüzünde özel bir yarara sahiptir;
+En yararlı şey bile yanlış kullanıldığında,
+Sonuç olarak zarara yol açar.
+Kullanmayı bilmezsen, iyi döner kötüye,
+Kötü de bazen erdemmiş gibi yücelir.
+Bu minik çiçeğin taze filizlerinde,
+Zehir de var, iyileştiren özler de;
+Koklanırsa, insanın her yerine dinçlik verir,
+Tadılırsa, tüm duyuları öldürür, yüreği durdurur.
+İnsanın içinde de, atlar gibi,
+Birbirine düşman iki kral kurmuştur;
+Biri erdem, öteki arzusuz ihtiyaç,
+Kötü olan egemen olduğunda,
+Kurt kemirip çürütür tezelden o bitkiyi.
 
 ROMEO
-(kendi kendine)daha dinleyeyim mi yoksa açıklayım mı ona??
+Günaydın kutsal peder!
 
-JULİET
-benim düşmanım olan adındır yanlızca
-sen sensin montague olmasan da
-hem montague nedir ki ne eli bir erkeğin
-ne ayağı ne kolu ne yüzü ne de başka bir parçası
-nolur başka bir ad bul kendine
-adın ne değeri var?şu gülün adı değişse bile
-kokmaz mı aynı güzellikte
-romeo nun da adı romeo olmasaydı
-kusursuzluğundan hiçbir şey kaybolmazdı
-romeo bırak,at bu adı!! senin parçan olmayan
-bu ada karşılık al bütün varlığımı
+FRIAR LAWRENCE
+Hayrola! Beni böyle erkenden selamlayan ses de kimin?
+Delikanlı oğlum, yatağına bu kadar erken veda ettiğine göre,
+Bir hayli karışık ve tedirgin olmalı kafan.
+Nöbet bekler kaygı her yaşlının gözünde,
+Uyku bulunmaz kaygının barındığı yerde.
+Oysa yıpranmamış gençliğin yüksüz bir beyinle dinlendiği yerde,
+Altın bir uyku sürdürür egemenliğini.
+Eminim seni böyle erkenden ayağa kaldıran
+Bir huzursuzluğun var!
+Öyle bir şey yoksa, o zaman bildim:
+
+FRIAR LAWRENCE
+Romeo'muz bu gece hiç yatağa girmedi.
 
 ROMEO
-alıyorum öyleyse sözünü dinleyerek
-SEVGİLİM de ki vaftiz olayım yeniden
-romeo değilim bundan böyle ben.
+Doğru söylüyorsun: Huzurumuzda uyku bile tatlıydı.
+
+FRIAR LAWRENCE
+Tanrı bağışlasın günahını! Rosaline'le miydin yoksa?
+
+ROMEO
+Rosaline'le mi, kutsal baba? Hayır, onunla değildim.
+Adını bile unuttum, bana verdiği acıyı da.
+
+FRIAR LAWRENCE
+İyi oğlum, peki neredeydin o zaman?
+
+ROMEO
+Sen bir daha sormadan ben anlatayım sana:
+Düşmanımın düzenlediği şölene katıldım,
+Orada biri ansızın beni yaraladı,
+Kendi de yaralandı. İyileşmemiz ikimizin de,
+Senin yardımına, kutsal hekimliğine bağlı.
+Nefret yok, kin yok yüreğimde,
+Ey kutsal kişi, yardım diliyorum düşmanım için de!
+
+FRIAR LAWRENCE
+Açık konuş oğlum, isteğini açıkça söyle.
+Bilmecemsi itirafın yanıtı da bilmeceyle olur.
+
+ROMEO
+Öyleyse, açıkça öğren: Gönlümü kaptırdım
+Zengin Capulet'in güzel kızına.
+Nasıl ondaysa benim gönlüm, onunki de bende.
+"Her şey yolunda, bir senin birleştirmen kaldı
+Bizi kutsal bir evlenme töreniyle.
+Ne zaman, nerede ve nasıl karşılaştık,
+Nasıl çeldik birbirimizin gönlünü,
+Nasıl yeminler ettik birbirimize,
+Giderken bir bir anlatırım sana;
+Yalnız kabul et n'olur, nikahımızı bugün kıymayı.
+
+FRIAR LAWRENCE
+Kutsal Ermiş Francis adına! Bu ne değişme!
+Büyük bir aşkla sevdiğin Rosaline'i,
+Öylece, çabucak bıraktın ha! Gençlerin sevgisi,
+Yüreklerinde değil de gözlerindeymiş demek.
+Meryem Ana aşkına! Hem Rosaline için
+Nice gözyaşlarıyla yıkandı solgun yanakların;
+Bu tuzlu sular çeşni vermek içindi sözde aşkına,"
+Ama tat tuz bırakmadı ağızda:
+Güneş yok etmedi henüz gökteki anlarım,
+Şu benim ihtiyar kulaklarımda
+Eski iniltilerin çınlar hala.
+Yanağının şurasında bak duruyor işte
+Daha silinmemiş eski bir gözyaşının izi.
+Sen sen olsaydın eğer, acılar da senin olsaydı,
+Sen de, acıların da hep Rosaline için varolacaktınız.
+Bu kadar değiştin ha! Öyleyse, unutma şu yargıyı:
+Güçsüzse erkekler, kadınlar düşer.
+
+ROMEO
+Rosaline'i seviyorum diye sık sık azarlardın beni.
+
+FRIAR LAWRENCE
+Sevdiğin için değil, oğlum, yalnızca kaptırdığın için ...
+
+ROMEO
+Gömmemi istemiştin o sevgiyi.
+
+FRIAR LAWRENCE
+Birini mezara gömüp de ötekini çıkarasın diye değil.
+
+ROMEO
+Paylama n'olur? Bak şimdiki sevgilim,
+İlgiye ilgi gösteriyor, sevgiye sevgi;
+Öteki öyle değildi ki.
+
+FRIAR LAWRENCE
+Çünkü sökemeden gerçek sevgiyi,
+Senin yalnızca ezberden maval okuduğunu
+O çok iyi biliyordu.
+Neyse, gel bakalım dalgacı delikanlı, gel benimle,
+Bir bakıma da yardımcı olmak istiyorum sana,
+Bakarsın bu birleşme mutlu sonuçlanır da
+İçten bir dostluğa döner iki ailenin nefreti.
+
+ROMEO
+Hadi çabuk! Acele edelim, yerimde duramıyorum.
+
+FRIAR LAWRENCE
+Yavaş evlat, acele işe şeytan karışır,
+Telaşla koşanın ayağı dolaşır.
